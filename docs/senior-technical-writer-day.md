@@ -28,7 +28,7 @@ This kind of informal advisory role is a significant part of senior-level techni
 
 ## 2:00 PM — Reviewing a junior writer's draft
 
-The afternoon includes a review of a draft written by a junior colleague. The draft covers the OAuth 2.0 authentication flow and is technically accurate in most places, but the structure front-loads a detailed explanation of the authorization code grant before the user has any context for why it matters. The writer also uses passive voice throughout the troubleshooting section, which obscures who is doing what — a common issue in technical writing that makes instructions harder to follow.
+The afternoon includes a review of a draft written by a junior colleague. The draft covers the authentication flow and is technically accurate in most places, but the structure front-loads a detailed explanation of the authorization code grant before the user has any context for why it matters. The writer also uses passive voice throughout the troubleshooting section, which obscures who is doing what — a common issue in technical writing that makes instructions harder to follow.
 
 The senior writer leaves specific, constructive comments. Not "this is unclear" but "this sentence uses passive voice, which makes it ambiguous whether the client or the server is responsible for this action — consider rewriting as an active imperative." Good review feedback teaches as well as corrects. The goal is not just a better document but a better writer.
 
